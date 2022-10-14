@@ -232,7 +232,7 @@ users = [
     }
   }
 ]
-4444
+
 for user in users:
   name = user.get('name')
   id = user.get('id')
